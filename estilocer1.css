@@ -1,0 +1,99 @@
+#bloque-rs{
+    width:100%;
+    height:auto;
+    text-align:right;
+}
+
+.rs{
+    width:40px;
+    height:40px;
+    border:0.5px solid rgb(0, 0, 0);
+}
+
+#logo{
+    width:100%;
+    height: 200px;
+}
+
+#cuerpo{
+    width:100%;
+    height:auto;
+    margin-top:5px;
+    margin-bottom:5px;
+    float:left;
+}
+
+aside{
+    width:30%;
+    height:auto;
+    border:1px dashed;
+    float:left;
+    margin: 0;
+}
+
+.titulo{
+    text-align:center;
+    color:white;
+    background-color: rgb(158, 78, 134);
+}
+
+.videos{
+    width: 97.5%;
+    height:150px;
+    margin:1%;
+    border:1px solid;
+    float:left;
+}
+
+section{
+    width:69%;
+    height:auto;
+    float:right;
+}
+
+.parrafo{
+    text-align:justify;
+    font-size:15px;
+}
+section h2{
+    font-size: 1.8rem;
+    color: #ce4747;
+    margin-bottom: 10px;
+}
+figure{
+    margin:0;
+    padding:0;
+    text-align: center;
+}
+
+.img-section{
+    width:auto;
+    height:120px;
+}
+
+footer{
+    width:100%;
+    height:auto;
+    display:grid;
+    grid-template-columns: 1fr 1fr;
+    float:left;
+    background-color: pink;
+}
+
+.div-footer{
+    width:100;
+    height:auto;
+    float:left;
+}
+
+.img-galeria{
+    width:50px;
+    height:50px;
+}
+
+.img-galeria:hover{
+    border:1px dashed;
+}
+
+
+
